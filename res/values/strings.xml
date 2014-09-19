@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BitBiz.io</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="donate">Donate</string>
+    <string name="Donations">Donations</string>
+    <string name="donations_body">"Hey! Glad you're interested in donating! All donations go towards further development. Send donations to:
+        
+         1KQwwWfuATJZogLTk9nmPNyY4egS1PUvqY</string>
+	<string name="cancel">Cancel</string>
+	<string name="ok">OK</string>
+	<string name="openinbrowser">Open in Browser</string>
+	<string name="gotooffice">Referral Office</string>
+	<string name="push">Push Notifications</string>
+	<string name="pushInfo">"Wait wait wait! Please realize that you may send one push to a million devices - or a million pushes to one device - per month. Don't abuse the push notifications! If you do, you will be removed from the application."</string>
+	<string name="update">== UPDATE ==</string>
+	<string name="update_body">"An update is available. In order to continue, you must update this application. Please select OK or quit."</string>
+	<string name="download">Download</string>
+	<string name="goon">"Continue"</string>
+	
+</resources>

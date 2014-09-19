@@ -1,0 +1,28 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="me.Vortex20000.bitbiz.MainActivity" >
+
+    <item
+        android:id="@+id/donate"
+        android:orderInCategory="99"
+        android:title="@string/donate"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/openinbrowser"
+        android:orderInCategory="50"
+        android:title="@string/openinbrowser"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/officepage"
+        android:orderInCategory="20"
+        android:title="@string/gotooffice"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/push"
+        android:orderInCategory="100"
+        android:title="@string/push"
+        app:showAsAction="never"/>
+        
+
+</menu>
